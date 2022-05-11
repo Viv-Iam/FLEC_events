@@ -414,14 +414,12 @@ ul li ul {
 	width: 100%;
   }
 
-  
-
 /*================================================
 04 - WELCOME CSS
 ==================================================*/
 
 .evlis-home-area {
-	background: url(../img/welcome.jpg) no-repeat fixed center center/cover;
+	background: url(../img/welcome0.jpg) no-repeat fixed center center/cover;
 	position: relative;
 	z-index: 1;
 	padding: 100px 0;
